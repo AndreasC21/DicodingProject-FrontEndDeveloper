@@ -324,7 +324,7 @@ footer {
     padding: 10px;
 }
 
-@media  screen and (max-width: 786px) {
+@media  screen and (max-width: 600px) {
     .navbar-container {
         border-bottom: 1px solid #84A7A1;
     }
